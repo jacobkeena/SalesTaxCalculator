@@ -1,0 +1,7 @@
+C:\Users\jacob\source\repos\SalesTaxReport\SalesTaxReport\bin\Debug\SalesTaxReport.exe.config
+C:\Users\jacob\source\repos\SalesTaxReport\SalesTaxReport\bin\Debug\SalesTaxReport.exe
+C:\Users\jacob\source\repos\SalesTaxReport\SalesTaxReport\bin\Debug\SalesTaxReport.pdb
+C:\Users\jacob\source\repos\SalesTaxReport\SalesTaxReport\obj\Debug\SalesTaxReport.csprojAssemblyReference.cache
+C:\Users\jacob\source\repos\SalesTaxReport\SalesTaxReport\obj\Debug\SalesTaxReport.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\SalesTaxReport\SalesTaxReport\obj\Debug\SalesTaxReport.exe
+C:\Users\jacob\source\repos\SalesTaxReport\SalesTaxReport\obj\Debug\SalesTaxReport.pdb
